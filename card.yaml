@@ -1,0 +1,8 @@
+path: /home/lucky/yolov5-7.0/datasets/cards
+train: /home/lucky/yolov5-7.0/datasets/cards/images/train  # 训练集路径
+val: /home/lucky/yolov5-7.0/datasets/cards/images/val  # 验证集路径，确保这是正确的验证集文件夹
+nc: 3 # 类别数量
+names:
+  - "号码"  # 类别名称列表
+  - "银行"
+  - "芯片"
