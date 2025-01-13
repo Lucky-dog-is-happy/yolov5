@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <p>
     <a align="center" href="https://ultralytics.com/yolov5" target="_blank">
@@ -453,3 +454,7 @@ For YOLOv5 bugs and feature requests please visit [GitHub Issues](https://github
 
 [assets]: https://github.com/ultralytics/yolov5/releases
 [tta]: https://github.com/ultralytics/yolov5/issues/303
+=======
+# yolov5
+RCS homework
+>>>>>>> acc3a30a21efc48c9f3e99512c1cb060e6cc98b6
